@@ -9,7 +9,7 @@ No cenário em constante evolução da moda, a Inteligência Artificial se apres
 
 ## Prompts Utilizados
 - Prompt – 1: Crie um roteiro detalhado para um podcast sobre a aplicação da Inteligência Artificial no universo da moda, abordando tendências, inovação tecnológica, processos criativos e estratégias de mercado. Estruture o conteúdo em episódios ou blocos temáticos, incluindo exemplos práticos, entrevistas e insights, de forma clara e envolvente para estudantes ou profissionais interessados no tema.
-- Prompt – 2: [Conteúdo Imagens](./prompts-roteiros.pdf)
+- Prompt – 2: [Conteúdo](./prompts-roteiros.pdf)
 
 ## Principais fontes e referências
 - *AI in the Fashion Industry Statistics: Reports 2025* — relatório sobre adoção de IA no setor.  
